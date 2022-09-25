@@ -1,0 +1,45 @@
+.controlBar-container {
+  background-color: black;
+}
+.main-controls-nav {
+  display: flex;
+  margin: 70px;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 120px;
+}
+
+.LeaveRoom {
+  background-color: #95362D;
+  margin: 5px;
+  border-radius: 10px;
+  padding: 25px;
+  color: white
+  cursor: pointer;
+  color: white;
+  font-weight: 50;
+  font-size: 24px;
+}
+.Enable-video {
+  display: flex;
+  height: 50px;
+  color: white;
+  cursor: pointer; 
+}
+.Disable-video {
+  display: flex;
+  height: 50px;
+  color: white;
+  cursor: pointer
+}
+.Enable-mic {
+  display: flex;
+  height: 50px;
+  color: white;
+}
+.Disable-mic {
+  display: flex;
+  height: 50px;
+  color: white;
+  cursor: pointer;
+}

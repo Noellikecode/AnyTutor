@@ -1,0 +1,28 @@
+.video-container {
+  display: inline-block;
+    justify-content: center;
+  }
+  
+  
+  .video-camera {
+    margin: 20px;
+    border: 5px dashed black;
+    align-content: center;
+    width: 500px;
+    height: 400px;
+  }
+  
+  .name-container {
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+  }
+  
+  .name {
+    font-size: 30px;
+    color: white;
+    background-color: #C5B7B5;
+    padding: 10px;
+    border-radius: 30px
+    font-weight: 800;
+  }
